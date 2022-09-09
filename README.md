@@ -1,5 +1,7 @@
 # Recitation-17-Team-5
 
-Sole team member: José D. Soto Rivera | @jossotriv
+Project Team Members:
+- José D. Soto Rivera | @jossotriv
 
+Description:
 Recreated Lab A in Project Board and then did Lab B in same project board.
