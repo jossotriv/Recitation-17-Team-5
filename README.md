@@ -8,7 +8,7 @@ Project Team Members:
 - Kaitlyn Huynh
 
 Edit Line:
-Jose=0
+Jose=1
 
 Description:
 Recreated Lab A in Project Board and then did Lab B in same project board.
