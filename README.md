@@ -3,7 +3,7 @@
 
 Project Team Members:
 - José D. Soto Rivera | @jossotriv
-- Kaitlyn Huynh
+- Kaitlyn Huynh | @kaitlynh770
 
 
 José D. Soto Rivera | @jossotriv
