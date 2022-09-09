@@ -8,6 +8,7 @@ Project Team Members:
 - Kaitlyn Huynh
 
 Edit Line:
+Jose =0
 Kaitlyn=2
 
 Description:
