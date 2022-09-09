@@ -3,10 +3,12 @@
 
 Project Team Members:
 - José D. Soto Rivera | @jossotriv
+- Saphire Young
+- Ash Young
+- Kaitlyn Huynh
 
-
-José D. Soto Rivera | @jossotriv
-
+Edit Line:
+Jose=0
 
 Description:
 Recreated Lab A in Project Board and then did Lab B in same project board.
