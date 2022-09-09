@@ -3,6 +3,7 @@
 
 Project Team Members:
 - José D. Soto Rivera | @jossotriv
+- Ash Young | @ash-yo
 
 
 José D. Soto Rivera | @jossotriv
