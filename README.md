@@ -9,7 +9,9 @@ Project Team Members:
 
 
 Edit Line:
-Jose=1
+
+Jose =0
+Kaitlyn=2
 
 Description:
 Recreated Lab A in Project Board and then did Lab B in same project board.
